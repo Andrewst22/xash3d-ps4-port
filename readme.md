@@ -70,7 +70,7 @@ Para instalar y poner en marcha este port en tu consola con GoldHEN, sigue estos
 **Proyecto en fase de pruebas:** Cabe aclarar que este proyecto contiene algunos bugs que se corregiran y adaptaran a la ps4 con el tiempo, Tambien  aclarar que este proyecto esta trabajado para Counter strike 2 el half life es jugable pero aun no se adapta el modo multijugador y otras funciones,
 ---
 
-##SCREENSHOTS DEL PORT
+
 Menu del juego 
 <img width="3840" height="2160" alt="Xash3D FWGS_20261118163952" src="https://github.com/user-attachments/assets/10d15840-24e4-4c41-9e99-6362f1675997" />
 
