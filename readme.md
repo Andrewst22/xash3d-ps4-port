@@ -91,3 +91,6 @@ para compras desplazarse por menus etc, Esta se activa pulsando R3 (stick derech
 ## Licencia y Atribución
 
 Este proyecto está basado en el motor de código abierto Xash3D FWGS (creado originalmente por Unkle Mike y mantenido por su comunidad). Se distribuye bajo los términos de la licencia GNU GPL, respetando las autorías originales del motor y añadiendo las adaptaciones exclusivas para PlayStation 4 desarrolladas en este repositorio.
+
+## DESCARGA
+Descarga el paquete PKG oficial desde [Ko-fi](https://ko-fi.com/s/d4087064b6).
