@@ -79,8 +79,7 @@ Para Activar el modo split screen en lan debes mover el mouse al apartado split 
 
 Muestra de la rueda de numeros para compras desplazarse por menus etc, Esta se activa pulsando R3 (stick derecho)
 <img width="3840" height="2160" alt="Xash3D FWGS_20261118164235" src="https://github.com/user-attachments/assets/390d9ffa-aef6-4eb0-92ad-1c5098e5bd84" />
-
-modo espectador 
+## Modo Espectador
 <img width="3840" height="2160" alt="Xash3D FWGS_20261118164400" src="https://github.com/user-attachments/assets/a1d335a1-88cf-48e6-b3bc-bae77ab8f2c5" />
 
 Demostracion de carga de mods correcta y servidores de la comunidad implementado 
