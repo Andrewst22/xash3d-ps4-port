@@ -1,0 +1,47 @@
+# Waf y Compilación
+build/
+.waf*
+.lock-wscript*
+compile_commands.json
+*.pkg
+*.prx
+*.sym
+*.oelf
+*.elf
+*.self
+*.sfo
+eboot.bin
+ps4pkg/
+
+# Archivos de objetos y librerías estáticas/dinámicas
+*.o
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+
+# Assets de juegos y datos binarios (Excluidos por peso y derechos de autor)
+valve/
+cstrike/
+cstrike_downloads/
+*.wad
+*.bsp
+*.pak
+*.mdl
+*.spr
+
+# Temporales, logs y respaldos (Evitamos excluir archivos .txt de documentación o scripts)
+*.log
+*.orig
+*.rej
+*.bak
+*.swp
+*~
+__pycache__/
+*.pyc
+
+# IDEs y Sistemas operativos
+.vscode/
+.idea/
+.DS_Store
