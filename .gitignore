@@ -1,4 +1,3 @@
-# Waf y Compilación
 build/
 .waf*
 .lock-wscript*
@@ -13,7 +12,6 @@ compile_commands.json
 eboot.bin
 ps4pkg/
 
-# Archivos de objetos y librerías estáticas/dinámicas
 *.o
 *.a
 *.so
@@ -21,7 +19,6 @@ ps4pkg/
 *.dylib
 *.exe
 
-# Assets de juegos y datos binarios (Excluidos por peso y derechos de autor)
 valve/
 cstrike/
 cstrike_downloads/
@@ -31,7 +28,6 @@ cstrike_downloads/
 *.mdl
 *.spr
 
-# Temporales, logs y respaldos (Evitamos excluir archivos .txt de documentación o scripts)
 *.log
 *.orig
 *.rej
@@ -41,7 +37,6 @@ cstrike_downloads/
 __pycache__/
 *.pyc
 
-# IDEs y Sistemas operativos
 .vscode/
 .idea/
 .DS_Store
