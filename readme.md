@@ -71,18 +71,18 @@ Para instalar y poner en marcha este port en tu consola con GoldHEN, sigue estos
 ---
 
 
-Menu del juego 
+## Menu Del Juego
 <img width="3840" height="2160" alt="Xash3D FWGS_20261118163952" src="https://github.com/user-attachments/assets/10d15840-24e4-4c41-9e99-6362f1675997" />
-
+## Modo Split Screen
 Para Activar el modo split screen en lan debes mover el mouse al apartado split screen y darle d-pad derecha y se selecciona al 2, puedes intentar jugar de 3 o 4 jugadores pero esa fase del desarrollo esta en alfa no es funcional y se esta trabajando para implementarlo por ahora solo se puede jugar de 2 jugadores, al crear la partida en lan puedes unirte desde cualquier plataforma ya sea android o pc y veras que desde la ps4 se transmiten 2 jugadores correctamente 
 <img width="3840" height="2160" alt="Xash3D FWGS_20261118165947" src="https://github.com/user-attachments/assets/5b5eada4-68e6-486b-8cc7-fd2fb4894bdc" />
 
-Muestra de la rueda de numeros para compras desplazarse por menus etc, Esta se activa pulsando R3 (stick derecho)
+## Muestra de la Rueda de Numeros 
+para compras desplazarse por menus etc, Esta se activa pulsando R3 (stick derecho)
 <img width="3840" height="2160" alt="Xash3D FWGS_20261118164235" src="https://github.com/user-attachments/assets/390d9ffa-aef6-4eb0-92ad-1c5098e5bd84" />
 ## Modo Espectador
 <img width="3840" height="2160" alt="Xash3D FWGS_20261118164400" src="https://github.com/user-attachments/assets/a1d335a1-88cf-48e6-b3bc-bae77ab8f2c5" />
-
-Demostracion de carga de mods correcta y servidores de la comunidad implementado 
+## Demostracion de carga de mods correcta y servidores de la comunidad implementado 
 <img width="3840" height="2160" alt="Xash3D FWGS_20261118164432" src="https://github.com/user-attachments/assets/61bd55f0-d3b6-469b-aa3f-d4d5bf597ad7" />
 
 
