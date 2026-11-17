@@ -93,4 +93,11 @@ para compras desplazarse por menus etc, Esta se activa pulsando R3 (stick derech
 Este proyecto está basado en el motor de código abierto Xash3D FWGS (creado originalmente por Unkle Mike y mantenido por su comunidad). Se distribuye bajo los términos de la licencia GNU GPL, respetando las autorías originales del motor y añadiendo las adaptaciones exclusivas para PlayStation 4 desarrolladas en este repositorio.
 
 ## DESCARGA
-Descarga el paquete PKG oficial desde [Ko-fi](https://ko-fi.com/s/d4087064b6).
+<br>
+<div align="center">
+  <a href="https://ko-fi.com/s/d4087064b6" target="_blank">
+    <img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_red.png" height="45" alt="Support me on Ko-fi" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+  </a>
+  <p style="margin-top: 8px; font-size: 14px; color: #8b949e;">Descarga el paquete PKG oficial para PlayStation 4</p>
+</div>
+<br>
