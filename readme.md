@@ -73,7 +73,8 @@ Para instalar y poner en marcha este port en tu consola con GoldHEN, sigue estos
 
 ## Menu Del Juego
 <img width="3840" height="2160" alt="Xash3D FWGS_20261118163952" src="https://github.com/user-attachments/assets/10d15840-24e4-4c41-9e99-6362f1675997" />
-## Modo Split Screen
+
+## Modo Split Screen (solo Lan)
 Para Activar el modo split screen en lan debes mover el mouse al apartado split screen y darle d-pad derecha y se selecciona al 2, puedes intentar jugar de 3 o 4 jugadores pero esa fase del desarrollo esta en alfa no es funcional y se esta trabajando para implementarlo por ahora solo se puede jugar de 2 jugadores, al crear la partida en lan puedes unirte desde cualquier plataforma ya sea android o pc y veras que desde la ps4 se transmiten 2 jugadores correctamente 
 <img width="3840" height="2160" alt="Xash3D FWGS_20261118165947" src="https://github.com/user-attachments/assets/5b5eada4-68e6-486b-8cc7-fd2fb4894bdc" />
 
