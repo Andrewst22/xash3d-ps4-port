@@ -98,6 +98,6 @@ Este proyecto está basado en el motor de código abierto Xash3D FWGS (creado or
   <a href="https://ko-fi.com/s/d4087064b6" target="_blank">
     <img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_red.png" height="45" alt="Download on Ko-fi" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
   </a>
-  <p style="margin-top: 8px; font-size: 14px; color: #8b949e;">Descarga el paquete PKG para PlayStation 4</p>
+  <p style="margin-top: 8px; font-size: 14px; color: #8b949e;">Descarga el paquete PKG GRATIS para PlayStation 4</p>
 </div>
 <br>
